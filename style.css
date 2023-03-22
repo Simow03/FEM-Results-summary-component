@@ -63,6 +63,7 @@ body {
     font-size: var(--fs-500);
     font-weight: var(--fw-regular);
     color: var(--clr-neutral-100);
+    min-height: 100vh;
 }
 
 /*?------- General Styles -------*/
