@@ -28,9 +28,8 @@ Users should be able to:
 ![Live version of the project](/assets/images/Screenshot%202023-03-22%20112607.png)
 
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
