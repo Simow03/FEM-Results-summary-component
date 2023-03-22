@@ -45,9 +45,9 @@ Users should be able to:
 
 ### What I learned
 
-I mainly focused on the css part of the project because of the simplicity of the Html, nothing to really worry about; With that being said, you can really just bring a lot with the css and I really enjoyed being able to create sa lot and be creative with it. 
+I mainly focused on the css part of the project because of the simplicity of the Html, nothing to really worry about; With that being said, you can really just bring a lot with the css and I really enjoyed being able to create a lot and be creative with it. 
 
-Something to notice is data attributes to style items that are quiet the same but has different styling processes. I used it twice but its very useful and saves a lot of code.
+Something to notice is "data attributes" to style items that are quiet the same but has different styling processes. I used it twice but its very useful and saves a lot of code.
 
 For example :
 
