@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: (https://simow03.github.io/FEM-Results-summary-component/)
+- Live Site URL: [Component-live-version](https://simow03.github.io/FEM-Results-summary-component/)
 
 ## My process
 
